@@ -89,4 +89,4 @@ Proof that the API request has been successful.
 
 ## When you're done
 
-Please zip up your solution and email it to both sam@wi-q.com and matt@wi-q.com.
+Please zip up your solution and email it to eng-tests@wi-q.com.
